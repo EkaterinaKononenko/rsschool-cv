@@ -1,6 +1,6 @@
 <img src="20221120_163147.jpg" alt="photo" width="200"/>
 
-**Kateryna Kononenko**
+#Kateryna Kononenko#
 
 _Front end developer_
 
@@ -12,11 +12,11 @@ _Front end developer_
 
 **About me:** I am responsible, active, self-learning and desire to finish all my tasks in time. I have experience working remotely in a team. I would like to work with team again and improve my skills.
 
-**Hard skills:** HTML, CSS & SASS, Javascript, GitHub, React, Parsel
+**Hard skills:** -HTML, -CSS & SASS, -Javascript, -GitHub, -React, -Parsel
 
-**Soft skills:** scrum master, teamwork, responsibility, communication, creative, positive attitude, honest, hardworking
+**Soft skills:** -scrum master, -teamwork, -responsibility, -communication, -creative, -positive attitude, -honest, -hardworking
 
-**Languages:** Ukrainian (fluently), Russian (fluently), English (Intermediate)
+**Languages:** -Ukrainian (fluently), -Russian (fluently), -English (Intermediate)
 
 **Work experience:** 2005-2008 LLC "RESOURSE" (an accountant), 2008-until now UPGGK (an accountant), may 2022 - until now COURSES "GOIT"
 
