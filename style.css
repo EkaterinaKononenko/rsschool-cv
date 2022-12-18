@@ -29,7 +29,9 @@ a {
   width: 100%;
 }
 
-.header__container {
+.header__container,
+.main__container,
+.footer__container {
   text-align: center;
   margin-left: 0;
   margin-right: 0;
