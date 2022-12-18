@@ -24,8 +24,11 @@ _Front end developer_
 
 **My project:** https://ekaterinakononenko.github.io/goit-markup-hw-08/ (HTML & CSS)
 
-**Team project:** https://michaelkononenko.github.io/ice-cream-shop/ (HTML & CSS) - my role: developer (section "Products"), https://khylchukdanylo.github.io/filmoteka/ (Javascript) - my role: scrum master and developer (authorisation form)
+**Team project:** https://michaelkononenko.github.io/ice-cream-shop/ (HTML & CSS) - my role: developer (section "Products"),
+https://khylchukdanylo.github.io/filmoteka/ (Javascript) - my role: scrum master and developer (authorisation form)
 
 **My codewars:** https://www.codewars.com/users/EkaterinaKononenko/completed_solutions
 
-**An example from codewars:** Reversed Words: function reverseWords(str){ return str.split(" ").reverse().join(" "); }
+**An example from codewars:** Reversed Words: function reverseWords(str){
+return str.split(" ").reverse().join(" ");
+}
