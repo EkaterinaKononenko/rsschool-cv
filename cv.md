@@ -12,20 +12,21 @@ _Front end developer_
 
 **About me:** I am responsible, active, self-learning and desire to finish all my tasks in time. I have experience working remotely in a team. I would like to work with team again and improve my skills.
 
-**Hard skills:** HTML, CSS & SASS, Javascript, GitHub, React, Parsel
+**Hard skills:** HTML, CSS & SASS, Javascript, GitHub, React, Redux, Parsel, Node JS
 
 **Soft skills:** scrum master, teamwork, responsibility, communication, creative, positive attitude, honest, hardworking
 
 **Languages:** Ukrainian (fluently), Russian (fluently), English (Intermediate)
 
-**Work experience:** 2005-2008 LLC "RESOURSE" (an accountant), 2008-until now UPGGK (an accountant), may 2022 - until now COURSES "GOIT"
+**Work experience:** 2005-2008 LLC "RESOURSE" (an accountant), 2008-2023 UPGGK (an accountant), may 2022 - april 2023 COURSES "GOIT"
 
 **Education:** 2009 Poltava University of Economics and Trade (diploma of higher education)
 
-**My project:** https://ekaterinakononenko.github.io/goit-markup-hw-08/ (HTML & CSS)
+**My project:** https://ekaterinakononenko.github.io/goit-markup-hw-08/ (HTML & CSS),
+https://ekaterinakononenko.github.io/goit-react-hw-08-phonebook/ (JS, React, Redux)
 
 **Team project:** https://michaelkononenko.github.io/ice-cream-shop/ (HTML & CSS) - my role: developer (section "Products"),
-https://khylchukdanylo.github.io/filmoteka/ (Javascript) - my role: scrum master and developer (authorisation form)
+https://khylchukdanylo.github.io/filmoteka/ (Javascript) - my role: scrum master and developer (authorisation form), https://4106677.github.io/so-yummy-front-end/ (React, Redux, Node JS) - my role: scrum master and developer
 
 **My codewars:** https://www.codewars.com/users/EkaterinaKononenko/completed_solutions
 
